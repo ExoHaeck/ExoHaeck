@@ -4,7 +4,6 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<img src="https://github.com/user-attachments/assets/df524faa-eade-4bd0-9623-36598d0786a6">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ExoHaeck&label=Profile%20views&color=0e75b6&style=flat" alt="ExoHaeck" /> </p>
